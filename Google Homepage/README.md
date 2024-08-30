@@ -9,6 +9,6 @@ As it's good to updated
 <br>
 <br>
 
-I successfully deployed to get a better experience
+I successfully deployed it to get a better experience
 <br>
 Check this out : <a href='https://shivam-googlehomepage.netlify.app'>Google HomePage<a/>
