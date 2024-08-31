@@ -1,6 +1,6 @@
 <h1>Unlimited Colors</h1>
 <br>
-<h3>this is made using HTML, CSS, JavaScript</h3>
+<p>this is made using HTML, CSS, JavaScript</p>
 <br>
 <h2>How does it works</h2>
 <br>
