@@ -1,2 +1,3 @@
 # Mini-Projects
-The repo contains customization of mini-projects by user. 
+The repo contains web-dev mini-projects by user.
+Hope you like the effort
