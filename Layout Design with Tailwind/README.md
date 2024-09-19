@@ -10,6 +10,8 @@ But each of the ways matter on it's own when it comes to applying in real scenar
 </br>
 For the dynamic experience on your own you can check out this:- 
 </br> <a href='https://play.tailwindcss.com/7laOXLkE1A' >Click Here !</a>
+</br>
+</br>
 So here it is:-
 <img src='1.png'>
 <img src='2.png'>
