@@ -1,4 +1,4 @@
-# Mini-Projects
-The repo contains web-dev mini-projects by user.
+# HandOn-Projects
+The repo contains web-dev projects by user which helps him to stay consistent on his development ritual.
 <br>
-Hope you like the effort
+Hope you like the efforts.
