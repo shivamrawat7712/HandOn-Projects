@@ -8,7 +8,7 @@ Often there will be some stands to say that as a framework is good but actual cs
 But each of the ways matter on it's own when it comes to applying in real scenarios and actual doing.
 </br>
 </br>
-For the dynamic experience on your own you can check out this:- 
+For the dynamic experience on your own you can check this:- 
 </br> <a href='https://play.tailwindcss.com/7laOXLkE1A' >Click Here !</a>
 </br>
 </br>
